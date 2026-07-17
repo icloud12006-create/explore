@@ -9,6 +9,9 @@ function IchkiBlok() {
           <h2 className="insights-heading">
             Get <span className="insights-highlight">insights</span> that help
             your business grow.
+
+
+            s
           </h2>
 
           <p className="insights-text">
